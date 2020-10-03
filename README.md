@@ -5,5 +5,5 @@ This app uses SystemClock class for time counter.
 Normally it lags if you use sleep method of Thread class.
 HandlerThread is used to continously update time counter value and to update time view
 
-![](images/Screenshot (412).png)
+![](images/Screenshot%20(412).png)
 
