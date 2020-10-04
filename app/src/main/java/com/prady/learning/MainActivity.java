@@ -105,7 +105,7 @@ public class MainActivity extends AppCompatActivity{
     private void addLap()
     {
         lapListFragment.addLap(minutes,seconds,milliseconds);
-        Toast.makeText(this,"Lapped time",Toast.LENGTH_SHORT).show();
+        Toast.makeText(this,"New Lapped time",Toast.LENGTH_SHORT).show();
     }
 
 }
