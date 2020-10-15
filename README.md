@@ -1,5 +1,5 @@
 # STOPPY-STOPWATCH
-This is a stopwatch application created for android. Used java.
+This is a stopwatch application created for android (Used java).
 
 ![](images/Screenshot%20(412).png)
 
